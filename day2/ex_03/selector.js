@@ -1,0 +1,3 @@
+function clearFunction(){
+    $(".test").remove();
+}
