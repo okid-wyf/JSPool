@@ -12,7 +12,7 @@ function range(start, end, step) {
 
 
     numLoops = Math.abs((start - end) / step);
-    //Math.abs : La fonction Math.abs() retourne la valeur absolue d'un nombre
+    //Math.abs : La fonction Math.abs() retourne la valeur absolue d'un nombre,
 
     for (var i = 0; i < numLoops; i++) {
 
