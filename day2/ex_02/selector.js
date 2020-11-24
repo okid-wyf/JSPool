@@ -1,3 +1,3 @@
 function clearFunction(){
-    $("p").remove();
+    $("#test").remove();
 }
